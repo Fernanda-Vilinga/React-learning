@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Plástico", "selected": false },
+    { "id": 2, "name": "Vidro", "selected": false },
+    { "id": 3, "name": "Papel", "selected": false },
+    { "id": 4, "name": "Metal", "selected": false }
+  ]
+  

@@ -1,0 +1,191 @@
+
+    body{
+        background-color: rgb(144, 196, 196);
+        font-family: Arial, Helvetica, sans-serif;
+       
+    
+    }
+    .geral2{
+        height: 1200px;
+    }
+    .geral2 .conteudo2 {
+        
+        width: 900px;
+        max-width: 1100px;
+    margin: 0 auto;
+        padding: 0 30px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        margin: 48px 0 0;
+        gap: 6px;
+        margin-left: 172px;
+      background-color: rgb(247, 230, 230);
+       background-position: center; 
+       padding-left: 70px; 
+    }
+    .header2{
+  
+        margin-top: 0px;
+        width: 950px;
+        height: 130px;
+        border-radius: 55px;
+        display: flex;
+        gap: 60px;
+        padding-bottom: 38px;
+      }
+   .logo2{
+    margin-top: 36px;
+    width: 16%;
+    height: 100%;
+    border-radius: 85px;
+    background: url('../../files/logo.jpeg') ;
+   }
+   .link2{
+    text-decoration: none;
+    width: 290px;
+    height: 50px;
+    margin-top: 90px;
+    margin-left: 470px;
+    color: rgb(0, 47, 255);
+   }
+     
+     /* Estiliza o ícone */
+     .icon {
+       
+       margin-right: 2px;            
+       display: flex;
+       align-items: center;
+     
+     }
+     
+     
+     
+     /* Efeito de hover */
+     .link2:hover {
+       
+       transform: scale(1.05); /* Leve aumento de tamanho ao passar o mouse */
+       
+     }
+     
+     /* Efeito de foco */
+     .link2:focus {
+       outline: none;                /* Remove o contorno padrão ao focar */
+       
+     }
+     form{
+        background-color: white;
+        width: 650px;
+        height: 1000px;
+        margin-left: 90px;
+        padding-left: 62px;
+
+     }
+     .logoTittle2{
+        margin-top: 16px;
+        color: rgb(105, 103, 103);
+     }
+     fieldset{
+        
+        text-decoration: none;
+        width: 550px;
+        height: 220px;
+
+     }
+   
+     legend{
+        
+        display: flex;
+       
+     }
+     
+     .lado1{
+        margin-top: 28px;
+        margin-left: 222px;
+        
+        color: rgb(105, 103, 103);
+     }
+     .lado2{
+        margin-top: 28px;
+      margin-left: 102px;
+        
+        color: rgb(105, 103, 103);
+     }
+     .btC{
+        margin-top: 32px;
+        width: 200px;
+        height: 50px;
+        background-color: rgb(33, 78, 33);
+        border-radius: 5px;
+        color: white;
+        margin-left: 380px;
+     }
+     /* Efeito de hover */
+  .btC:hover {
+    
+    transform: scale(1.05); /* Leve aumento de tamanho ao passar o mouse */
+  }
+  
+  /* Efeito de foco */
+  .btC:focus {
+    outline: none;                /* Remove o contorno padrão ao focar */
+  }
+     #nome{
+        width: 538px;
+        border-radius: 4px;
+        height: 30px;
+     }
+     #email{
+        border-radius: 4px;
+        width: 250px;
+        height: 30px;
+      
+     }
+     #what{
+       
+        border-radius: 4px;
+        width: 250px;
+        height: 30px;
+     }
+     .campos2{
+        display: flex;
+        margin-top: 18px;
+     }
+     .w{
+        margin-left: 32px;
+     }
+     input:hover {
+       border-color: rgb(0, 47, 255);
+        transform: scale(1.05); /* Leve aumento de tamanho ao passar o mouse */
+        margin-left: 8px;
+        padding-left: 16px;
+      }
+      
+      /* Efeito de foco */
+      input:focus {
+        outline: none;                /* Remove o contorno padrão ao focar */
+      }
+      .campos34{
+        display: flex;
+        width: 100px;
+        height: 100px;
+      }
+     
+     #estado{
+        border-radius: 4px;
+        width: 250px;
+        height: 30px;
+      
+     }
+     #city{
+        border-radius: 4px;
+        width: 250px;
+        height: 30px;
+      
+     }
+     .campos4{
+        margin-left: 32px;
+     }
+   .end{
+      height: 300px;
+   }
